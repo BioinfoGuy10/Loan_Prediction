@@ -3,7 +3,9 @@ Predict whether a loan will be approved or not based on factors like gender, mar
 
 # Data used
 Train : https://github.com/BioinfoGuy10/Loan_Prediction/blob/master/Train.txt
-Test : 
+
+Test : https://github.com/BioinfoGuy10/Loan_Prediction/blob/master/Test.txt
+
 # Algorithm used
 Random Forest
 
