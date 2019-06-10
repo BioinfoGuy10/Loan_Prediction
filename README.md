@@ -6,6 +6,10 @@ Train : https://github.com/BioinfoGuy10/Loan_Prediction/blob/master/Train.txt
 
 Test : https://github.com/BioinfoGuy10/Loan_Prediction/blob/master/Test.txt
 
+# Technology
+•	Programming language: Python
+•	Libraries used: Pandas, numpy, matplotlib, seaborn, sklearn
+
 # Algorithm used
 Random Forest
 
